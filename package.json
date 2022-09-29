@@ -7,18 +7,18 @@
     "start": "live-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "live-server": "^1.2.2"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/josanjohnata/Typescript-course.git"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/josanjohnata/Typescript-course/issues"
   },
-  "homepage": "https://github.com/josanjohnata/Typescript-course#readme"
+  "homepage": "https://github.com/josanjohnata/Typescript-course#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
 }
