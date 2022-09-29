@@ -12,5 +12,13 @@
   "license": "ISC",
   "dependencies": {
     "live-server": "^1.2.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josanjohnata/Typescript-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/josanjohnata/Typescript-course/issues"
+  },
+  "homepage": "https://github.com/josanjohnata/Typescript-course#readme"
 }
